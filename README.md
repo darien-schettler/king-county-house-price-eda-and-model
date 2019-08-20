@@ -12,7 +12,7 @@ It includes homes sold between May 2014 and May 2015.
 ```
 1. Clone this repository
 2. Create an environment (and activate it) and install the requirements.txt file
-3. Download the dataset from - https://github.com/darien-schettler/king-county-house-price-eda-and-model/kc_house_data.csv
+3. Download the dataset from - https://github.com/darien-schettler/king-county-house-price-eda-and-model/blob/master/kc_house_data.csv
 4. Alternatively you can launch a google colab and perform the !wget operation on the link from the previous step to get the data
 5. Launch jupyter/colab
 6. Open the file from the cloned repositry (or !wget)
