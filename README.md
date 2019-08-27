@@ -1,6 +1,6 @@
 # A Notebook For Investigating and Creating Baseline Models For The King-Country Housing Dataset
 
-As the title suggests. This is a  notebook that utilizes basic machine learning and in-depth data exploration techniques to explore and create baseline models for, the dataset/competition *'House Sales in King-County'*. <br>The following is the information from Kaggle:<br><br>
+This is a  notebook that utilizes basic machine learning and in-depth data exploration techniques to explore and create baseline models for, the dataset/competition *'House Sales in King-County'*. <br>The following is the information from Kaggle:<br><br>
 
 ```
 This dataset contains house sale prices for King County, which includes Seattle. 
